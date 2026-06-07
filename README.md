@@ -14,7 +14,6 @@ The solution ingests operational data from AWS S3, processes it through multiple
 ---
 ![Architecture](docs/images/final%20arch.png)
 
-![Pipeline](docs/images/dlt.png)
 # Architecture Overview
 
 ## Technologies Used
@@ -103,6 +102,8 @@ Gold
 BI & Analytics
 ```
 
+![Pipeline](docs/images/dlt.png)
+![Pipeline](docs/images/CircuitBox%20Pipeline%20Graph-%20Lakeflow%20Pipeline.png)
 ---
 
 # Landing Layer
