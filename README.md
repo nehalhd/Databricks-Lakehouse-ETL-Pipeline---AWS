@@ -66,7 +66,7 @@ UC Metastore
         ├── Silver Tables
         └── Gold Tables
 ```
-
+![Pipeline](docs/images/Catalogs.png)
 ---
 
 ## Governance Components
